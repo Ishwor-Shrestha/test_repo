@@ -1,2 +1,3 @@
-Some changes in branch a (updated)
+Some changes in branch a (updated x2)
+Some changes in branch a.1
 Some changes in branch a.1
